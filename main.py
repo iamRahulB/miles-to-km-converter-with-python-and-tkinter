@@ -21,3 +21,4 @@ def calculate():
 
 button=tkinter.Button(text="Calculate", command=calculate)
 button.grid(column=2,row=4)
+window.mainloop()
